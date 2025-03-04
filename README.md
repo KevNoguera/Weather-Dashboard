@@ -22,6 +22,7 @@ The Weather Dashboard is a web application that allows users to search for weath
 
 ## Deployed Page
 
+<img width="809" alt="Image" src="https://github.com/user-attachments/assets/db611739-a1f0-4e57-b554-444228fa33fa" />
 
 
 ## License 
